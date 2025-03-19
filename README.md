@@ -5,8 +5,6 @@
 - 📫 pinheiro.endy@aluno.ifce.edu.br ou yuliendypinheiro@gmail.com
 - ⚡ Fun fact: Gosto de música antiga👍
 
-<i class="devicon-html5-plain-wordmark"></i>
-<i class="devicon-phyton-plain-wordmark"></i>
 
 
 <!---
