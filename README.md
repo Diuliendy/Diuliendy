@@ -1,9 +1,10 @@
-### Oi, sou Diuli Endy!👋
+### Oi, sou Diuli Endy!
 
 - 👀 Tenho interesse em aprender mais sobre tecnologia
 - 🌱 Atualmente estou aprendendo :Java,HTML
 - 📫 pinheiro.endy@aluno.ifce.edu.br ou yuliendypinheiro@gmail.com
 - ⚡ Fun fact: Gosto de música antiga👍
+
 
 
 
